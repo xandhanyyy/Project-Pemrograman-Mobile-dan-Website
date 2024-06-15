@@ -1,0 +1,17 @@
+/* NewsList.css */
+
+.MuiTableCell-root {
+    font-size: 16px;
+}
+
+.MuiTableRow-root:hover {
+    background-color: #f5f5f5;
+}
+
+.MuiTypography-h4 {
+    font-weight: bold;
+}
+
+.MuiTextField-root {
+    width: 300px;
+}
